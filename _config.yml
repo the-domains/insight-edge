@@ -6,9 +6,9 @@ color:
   saturation: 0.5035293868277222
   rhythmicContrast: 0.6283723644446582
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: Insight Edge
